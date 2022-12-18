@@ -1,0 +1,150 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2551342 */
+  src: url('//at.alicdn.com/t/font_2551342_qbjsj8rizj.woff2?t=1634914328923') format('woff2'),
+       url('//at.alicdn.com/t/font_2551342_qbjsj8rizj.woff?t=1634914328923') format('woff'),
+       url('//at.alicdn.com/t/font_2551342_qbjsj8rizj.ttf?t=1634914328923') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fuzhi:before {
+  content: "\e6a7";
+}
+
+.icon-red:before {
+  content: "\e640";
+}
+
+.icon-wenjianjia:before {
+  content: "\e630";
+}
+
+.icon-riqi:before {
+  content: "\e6de";
+}
+
+.icon-liulan:before {
+  content: "\e60e";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-huiyuan:before {
+  content: "\e8b1";
+}
+
+.icon-kabao:before {
+  content: "\e8b2";
+}
+
+.icon-huati:before {
+  content: "\e8b3";
+}
+
+.icon-paihangbang:before {
+  content: "\e8b4";
+}
+
+.icon-pengyouquan:before {
+  content: "\e8b5";
+}
+
+.icon-rili:before {
+  content: "\e8b6";
+}
+
+.icon-pinglun:before {
+  content: "\e8b7";
+}
+
+.icon-taolunqu:before {
+  content: "\e8b9";
+}
+
+.icon-wodeguanzhu:before {
+  content: "\e8bc";
+}
+
+.icon-xiaoxi:before {
+  content: "\e8bd";
+}
+
+.icon-xiaoxizhongxin:before {
+  content: "\e8bf";
+}
+
+.icon-yingpingmoban:before {
+  content: "\e8c0";
+}
+
+.icon-shouye-black:before {
+  content: "\e601";
+}
+
+.icon-close-bold:before {
+  content: "\e686";
+}
+
+.icon-fasong:before {
+  content: "\e664";
+}
+
+.icon-arrow-left-bold:before {
+  content: "\e685";
+}
+
+.icon-arrow-right-bold:before {
+  content: "\e687";
+}
+
+.icon-shang:before {
+  content: "\e60f";
+}
+
+.icon-taiyang:before {
+  content: "\e600";
+}
+
+.icon-top:before {
+  content: "\e61b";
+}
+
+.icon-caidan:before {
+  content: "\e606";
+}
+
+.icon-chrome:before {
+  content: "\ec9f";
+}
+
+.icon-firefox:before {
+  content: "\e8eb";
+}
+
+.icon-safari:before {
+  content: "\e65f";
+}
+
+.icon-xingzhuangjiehe:before {
+  content: "\e974";
+}
+
+.icon-edge:before {
+  content: "\e8be";
+}
+
+.icon-opera:before {
+  content: "\e722";
+}
+
+.icon-sousuo3:before {
+  content: "\e78e";
+}
